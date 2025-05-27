@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Clínica Veterinária SweetPet</title>
     <link rel="stylesheet" href="style/css.css">
+    <link rel="stylesheet" href="../style/servico.css">
 </head>
 <body>
     <header>
@@ -22,4 +23,3 @@
         © 2025 Clínica Veterinária SweetPet
         </footer>
     </header>
-
